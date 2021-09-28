@@ -1,0 +1,40 @@
+/*
+#side_menu {
+    float: left;
+    background-color: #FFA500;
+    text-align: center;
+}
+h1, footer {
+    background-color: #4c2b15;
+    color: white;
+    margin-bottom: 0pt;
+    text-align: center;
+}
+article {
+    background-color: #fff8dc;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#odd-photo {
+    background-color:hotpink;
+    font-size: medium;
+}
+#even-photo {
+    background-color:dodgerblue;
+    font-size: medium;
+}
+#middle-photo{
+    width: 250px;
+    height: 100px;
+}
+nav {
+    background-color: #d2691e;
+    text-align: center;
+}
+.container-fluid {
+    padding:0%;
+}
+*/
